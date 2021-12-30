@@ -190,6 +190,7 @@ I used Python and the Pandas Library to analyze purchase data for a game and stu
 ###  Data Visualization:
 ----------------------
 
+#### Player Count
 ![Player_Count](HeroesOfPymoli/Results/player_count.png)
 
 ![Purchasing_Analysis](HeroesOfPymoli/Results/purchasing_analysis.png)
