@@ -9,11 +9,11 @@ I used Python and the Pandas Library to analyze purchase data for a game and stu
 
 <b>Datasets used:</b>
 
-* [Purchase Data](HeroesofPymoli/Resources/purchase_data.xlsx)
+* [Purchase Data](HeroesofPymoli/Resources/purchase_data.csv)
 
-* [School Data](PyCitySchools/Resources/schools_complete.xlsx)
+* [School Data](PyCitySchools/Resources/schools_complete.csv)
 
-* [Student Data](PyCitySchools/Resources/student_complete.xlsx)
+* [Student Data](PyCitySchools/Resources/student_complete.csv)
 
 ### Tools used:
 ----------------------
