@@ -5,7 +5,7 @@
 
 **Description:**
 
-I used Python and the Pandas Library to analyze purchase data for a game and student data a school disctrict.
+I used Python and the Pandas Library to analyze purchase data for a game and student data for a school district.
 
 <b>Datasets used:</b>
 
